@@ -75,7 +75,22 @@ Now I will reasign the ticket to jane's department, when this happens John won't
 <br /> 
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/reassign.PNG?raw=true" height="90%" width="80%"  />\
 <br />
+<br />
+Now jane will be working the ticket replying to the client and fixing any issues she can find. After she is done working the ticket she will mark it as closed. Throughout the process she kept the customer informed on the matter. This is important to do if something is taking a long to to fix. This is also good to do if you are working in a team.:
+<br />
 <br /> 
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Working%20as%20jane.PNG?raw=true" height="90%" width="80%"  />\
+<br /> 
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Jane%20working%20ticket.PNG?raw=true" height="90%" width="80%"  />\
+<br /> 
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Jane%20working%20ticket%20.PNG?raw=true" height="90%" width="80%"  />\
+<br /> 
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Ending%20ticket%20jane.PNG?raw=true" height="50%" width="40%"  />\
+<br />
+<br /> 
+
+<h2>This concludes the guide, I hope this gives you a simple feel of how to use the ticketing system. Keep in mind that you might be working with a team and with how alot of ticketing systems are you can ask for help from others with the systems that are in place.I hope this guide serve as reference for the basic use of osTicket.</h2>
+
 
 
 
