@@ -30,12 +30,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>This is the finale part of this guide. This part we will be working the tickets, in this case simulating working them. You will create, respond, and set the SLA for the tickets. You can also practice responding to the clints and simulate what it would be like in a real work environment.   </h3>
 
 <p align="center">
-First thing to do is to make your way to the support center page. Here you can make the tickets. To summerize this page you can make the tickets put the name for the client and detail regarding the issue they might be having. Follow these steps and feel free to experiment. 
+First thing to do is to make your way to the support center page. Here you can make the tickets. To summerize this page you can make the tickets put the name for the client and detail regarding the issue they might be having. Follow these steps and feel free to experiment.: 
 <br />
 <br />  
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Ticket%20made.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+ For this the imformation can be random unless you want to test what the email features are like for osTicket. In this case we will make it random just to be able to make the ticket for this guide.:
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Ticket%20made%201.PNG?raw=true" height="90%" width="80%"  />\
+<br />
+<br />
+After you make the ticket sign back in as an agent.:
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Sign%20in%20as%20a%20agent.PNG?raw=true" height="90%" width="80%"  />\
+
 
 
 
