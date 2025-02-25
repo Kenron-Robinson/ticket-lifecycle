@@ -48,12 +48,16 @@ After you make the ticket sign back in as an agent.:
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Sign%20in%20as%20a%20agent.PNG?raw=true" height="90%" width="80%"  />\
 <br />
 <br />
-Here you should be able to see the ticket that was made. You can set the SLA for it and put it in the correct catagory for the help topic. This will make it easier to place in the right department.  :
+Here you should be able to see the ticket that was made. You can set the SLA for it and put it in the correct catagory for the help topic. This will make it easier to place in the right department. we will work the ticket and make any corrections if any are needed, if the ticket is for this agent's department then he will work it and if not he will get comfirmation to send it to the correct place. Follow the steps.  :
 <br />
 <br /> 
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Working%20the%20ticket.PNG?raw=true" height="90%" width="80%"  />\
  <br />
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Working%20the%20ticket%201.PNG?raw=true" height="90%" width="80%"  />\
+<br /> 
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Ticket%20work%202.PNG?raw=true" height="90%" width="80%"  />\
+<br />  
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Ticket%20work%204.PNG?raw=true" height="90%" width="80%"  />\ 
 <br />
 <br /> 
 Here I will make some corrections to the ticket the client submitted, this is something I think is pretty commone sometimes the info might not be submitted in the correct manner so we will make the corrections and send the ticket to the right department.:
