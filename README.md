@@ -26,11 +26,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+
+<h3>This is the finale part of this guide. This part will be working the tickets, in this case simulating working them. You will create, respond, and set the SLA for the tickets. You can also practice responding to the clints and simulate what it would be like in a real work environment.   </h3>
+
 <p align="center">
-First log in with the password and username you set for yourself, back inside of the osticket installer. This is the interface for the osticket. :
+First thing to do is to make your way to the support center page. Here you can make the tickets. To summerize this page you can make the tickets put the name for the client and detail regarding the issue they might be having. Follow these steps and feel free to experiment. 
 <br />
 <br />  
-<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Config%20roles.PNG?raw=true" height="90%" width="80%"  />
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Ticket%20made.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
 
