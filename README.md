@@ -59,11 +59,18 @@ Here you should be able to see the ticket that was made. You can set the SLA for
 <br />  
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Ticket%20work%204.PNG?raw=true" height="90%" width="80%"  />\ 
 <br />
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/ticket%20work%203.PNG?raw=true" height="90%" width="80%"  />\  
 <br /> 
 Here I will make some corrections to the ticket the client submitted, this is something I think is pretty commone sometimes the info might not be submitted in the correct manner so we will make the corrections and send the ticket to the right department.:
 <br />
 <br /> 
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Wrong%20info%20put%20into%20the%20system%20.PNG?raw=true" height="90%" width="80%"  />\
+<br /> 
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/correction%20of%20the%20wrong%20info..PNG?raw=true" height="90%" width="80%"  />\
+<br />
+<br /> 
+Now I will reasign the ticket to jane's department, when this happens John won't be able to see it anymore.:
+<br />
 <br /> 
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/correction%20of%20the%20wrong%20info..PNG?raw=true" height="90%" width="80%"  />\
 
