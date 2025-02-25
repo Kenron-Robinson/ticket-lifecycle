@@ -46,6 +46,14 @@ After you make the ticket sign back in as an agent.:
 <br />
 <br />
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Sign%20in%20as%20a%20agent.PNG?raw=true" height="90%" width="80%"  />\
+<br />
+<br />
+Here you should be able to see the ticket that was made. You can set the SLA for it and put it in the correct catagory for the help topic. This will make it easier to place in the right department.  :
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Working%20the%20ticket.PNG?raw=true" height="90%" width="80%"  />\
+ <br />
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/Working%20the%20ticket%201.PNG?raw=true" height="90%" width="80%"  />\
 
 
 
