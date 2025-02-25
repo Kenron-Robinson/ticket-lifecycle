@@ -70,10 +70,12 @@ Here I will make some corrections to the ticket the client submitted, this is so
 <img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/correction%20of%20the%20wrong%20info..PNG?raw=true" height="90%" width="80%"  />\
 <br />
 <br /> 
-Now I will reasign the ticket to jane's department, when this happens John won't be able to see it anymore.:
+Now I will reasign the ticket to jane's department, when this happens John won't be able to see it anymore because he isn't a admin or apart of the department:
 <br />
 <br /> 
-<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/correction%20of%20the%20wrong%20info..PNG?raw=true" height="90%" width="80%"  />\
+<img src="https://github.com/Kenron-Robinson/ticket-lifecycle/blob/main/Images/reassign.PNG?raw=true" height="90%" width="80%"  />\
+<br />
+<br /> 
 
 
 
